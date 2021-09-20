@@ -13,12 +13,12 @@ func main() {
  	  "blue": "#9c0081",
     }
 
-  //  colors := make(map[string]string)
+   //  colors := make(map[string]string)
 
- //  colors["white"] = "#ffffff"
+   //  colors["white"] = "#ffffff"
 
-  //to delete a map
- // delete(colors, "white")
+   //to delete a map
+   // delete(colors, "white")
 
    //fmt.Println(colors)
   PrintMap(colors)
